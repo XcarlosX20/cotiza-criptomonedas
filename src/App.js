@@ -55,7 +55,7 @@ function App() {
   return (
     <Container>
       <div>
-        <Heading>Cotiza criptomonedas al instante</Heading>
+        <Heading>HOLA HOMOSEXUAL(SANCHEZ)</Heading>
       </div>
       <div>
         <Img src={crypto} width="400px" alt="crypto" />
